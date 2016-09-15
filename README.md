@@ -1,0 +1,1 @@
+# dns-syntax-check
